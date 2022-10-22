@@ -15,7 +15,7 @@ const userSchema = new Schema({
   password: {
     type: String,
     required: true,
-    minlength: 3,
+    minlength: 5,
   },
   // reviews: [{ type: mongoose.Types.ObjectId, ref: "Review", required: true }],
 });
