@@ -20,8 +20,6 @@ Check the live demo here 👉️ [https://open.cruip.com/](https://open.cruip.co
 
 ## Design files
 
-If you need the design files, you can download them from Figma's Community 👉 https://bit.ly/3BjiEtQ
-
 ## Table of contents
 
 * [Usage](#usage)
