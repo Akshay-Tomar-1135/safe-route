@@ -1,5 +1,5 @@
 import React from "react";
-
+// creates map of safest route
 const mapPage = () => {
   return (
     <>
