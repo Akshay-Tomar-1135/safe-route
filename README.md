@@ -29,7 +29,7 @@ We have been able to develop safety routes based on previous data records of cri
 ```
 Frontend: React.js, CSS, bootstrap, Material.ui
 
-Backend: Node.js, Express.js
+Backend: Node.js, Express.js, MongoDB
 
 Database> MongoDB( for user login)
 API> Google maps API
