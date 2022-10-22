@@ -50,7 +50,7 @@ export const updateReview = async (req, res, next) => {
   }
   return res.status(200).json({ review });
 };
-
+//getting id by api
 export const getById = async (req, res, next) => {
   const id = req.params.id;
   let review;
