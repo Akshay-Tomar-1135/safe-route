@@ -11,7 +11,7 @@ const url =
   "mongodb+srv://animesh:animesh@cluster0.ezibghm.mongodb.net/?retryWrites=true&w=majority";
 
 app.use("/api/user", userrouter); //http://localhost:5000/api/user
-app.use("/api/review", reviewrouter); //http://localhost:5000/api/review
+app.use("/api/review", reviewrouter); //http://localhost:5000/api/review/ankit
 
 mongoose
   .connect(url)
