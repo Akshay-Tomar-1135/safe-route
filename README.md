@@ -31,7 +31,7 @@ Frontend: React.js, CSS, bootstrap, Material.ui
 
 Backend: Node.js, Express.js
 
-Database> MongoDB
+Database> MongoDB(for user login)
 API> Google maps API
 
 ```
