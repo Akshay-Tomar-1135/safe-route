@@ -41,7 +41,7 @@ If you need the design files, you can download them from Figma's Community 👉 
 * [Credits](#credits)
 * [Terms and License](#terms-and-license)
 * [About Us](#about-us)
-* [Stay in the loop](#stay-in-the-loop)
+* [Stay in the loop](#stay-in-the-loop
 
 ## Usage
 
